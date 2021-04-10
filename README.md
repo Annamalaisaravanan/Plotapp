@@ -1,3 +1,3 @@
 # Plotapp
+![plot_gui](https://user-images.githubusercontent.com/49229516/114275710-263cc280-9a41-11eb-94a2-4fc14847f086.jpg)
 
-![plot_gui](https://user-images.githubusercontent.com/49229516/114275274-892d5a00-9a3f-11eb-8eb7-57ea7742c966.jpg)
