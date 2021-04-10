@@ -123,7 +123,7 @@ def show():
     line=FigureCanvas(figure2,root1)
     line.get_tk_widget().pack(side=tk.LEFT,fill=tk.BOTH)
     df1=my_data[[str(ans2.get()),str(ans3.get())]].groupby(str(ans2.get())).sum()
-    df1.plot(kind="line",ax=ax2,legend=True)
+    df1.plot(kind="hist",ax=ax2,legend=True)
     ax1.set_title(str(ans2.get())+" vs "+str(ans3.get()))
 
     figure3=plt.figure(figsize=(5,4),dpi=100)
