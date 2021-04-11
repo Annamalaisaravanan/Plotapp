@@ -2,6 +2,7 @@ import tkinter as tk
 import seaborn as sns
 from tkinter.filedialog import askopenfilename
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 from tkinter import filedialog, messagebox, ttk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg,FigureCanvas
